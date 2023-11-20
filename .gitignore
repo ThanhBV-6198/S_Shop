@@ -1,0 +1,9 @@
+BE/S_Shop/S_Shop.Auth.Shared/obj/
+BE/Services/Auth/S_Shop.Auth.Application/obj/
+BE/Services/Auth/S_Shop.Auth.Contracts/obj/
+BE/Services/Auth/S_Shop.Auth.Domain/obj/
+BE/Services/Auth/S_Shop.Auth.Host/obj/
+BE/Services/Auth/S_Shop.Auth.HttpApi/obj/project.assets.json
+BE/Services/Auth/S_Shop.Auth.Persistent/obj/
+BE/Services/Auth/S_Shop.Auth.HttpApi/obj/
+BE/Services/Auth/S_Shop.Auth.HttpApi.Client/obj/
